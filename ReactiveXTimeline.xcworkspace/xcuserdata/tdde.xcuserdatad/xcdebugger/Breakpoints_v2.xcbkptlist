@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/BaseAPIService.swift"
+            timestampString = "514696472.00294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "rx_requestArray(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.BaseAPIService.(rx_requestArray &lt;A where A: ReactiveXTimeline.JSONDecodable&gt; (url : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;A&gt;&gt;).(closure #1)"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/BaseAPIService.swift"
+                  timestampString = "515147619.912738"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.BaseAPIService.(rx_requestArray &lt;A where A: ReactiveXTimeline.JSONDecodable&gt; (url : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;A&gt;&gt;).(closure #1).(closure #1)"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/BaseAPIService.swift"
+                  timestampString = "515147619.91406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/BaseAPIService.swift"
+            timestampString = "514701841.78958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "rx_requestJSON(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/BaseAPIService.swift"
+            timestampString = "514701841.78958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "rx_requestJSON(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.BaseAPIService.rx_requestJSON (url : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/BaseAPIService.swift"
+                  timestampString = "515147619.919381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.BaseAPIService.(rx_requestJSON (url : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;&gt;&gt;).(closure #1)"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/BaseAPIService.swift"
+                  timestampString = "515147619.920526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/PostViewModel.swift"
+            timestampString = "514697188.788629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getPosts(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.PostViewModel.getPosts (searchText : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;ReactiveXTimeline.Post&gt;&gt;"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/PostViewModel.swift"
+                  timestampString = "515147619.922888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.PostViewModel.(getPosts (searchText : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;ReactiveXTimeline.Post&gt;&gt;).(closure #1)"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/PostViewModel.swift"
+                  timestampString = "515147619.924029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReactiveXTimeline.PostViewModel.(getPosts (searchText : Swift.String) -&gt; RxSwift.Observable&lt;Swift.Array&lt;ReactiveXTimeline.Post&gt;&gt;).(closure #1).(closure #1)"
+                  moduleName = "ReactiveXTimeline"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tdde/Desktop/workspace/Swift_Learn/ReactiveXTimeline/ReactiveXTimeline/PostViewModel.swift"
+                  timestampString = "515147619.925169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/PostAPIService.swift"
+            timestampString = "514871756.475603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/PostAPIService.swift"
+            timestampString = "514871756.475603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getPosts(searchText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/PostViewController.swift"
+            timestampString = "515147618.766629"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "setupTablewView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReactiveXTimeline/PostAPIService.swift"
+            timestampString = "514871735.757203"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "testService()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
